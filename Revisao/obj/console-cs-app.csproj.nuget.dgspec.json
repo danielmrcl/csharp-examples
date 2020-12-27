@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/daniel/Code/dotnet/console-cs-app/console-cs-app.csproj": {}
+    "/home/daniel/Code/dotnet/console-cs-app/Revisao/console-cs-app.csproj": {}
   },
   "projects": {
-    "/home/daniel/Code/dotnet/console-cs-app/console-cs-app.csproj": {
+    "/home/daniel/Code/dotnet/console-cs-app/Revisao/console-cs-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/daniel/Code/dotnet/console-cs-app/console-cs-app.csproj",
+        "projectUniqueName": "/home/daniel/Code/dotnet/console-cs-app/Revisao/console-cs-app.csproj",
         "projectName": "console-cs-app",
-        "projectPath": "/home/daniel/Code/dotnet/console-cs-app/console-cs-app.csproj",
+        "projectPath": "/home/daniel/Code/dotnet/console-cs-app/Revisao/console-cs-app.csproj",
         "packagesPath": "/home/daniel/.nuget/packages/",
-        "outputPath": "/home/daniel/Code/dotnet/console-cs-app/obj/",
+        "outputPath": "/home/daniel/Code/dotnet/console-cs-app/Revisao/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/daniel/.nuget/NuGet/NuGet.Config"
